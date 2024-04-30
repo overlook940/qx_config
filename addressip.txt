@@ -1,5 +1,5 @@
-172.64.199.214
-www.baipiao.eu.org
-cdn.anycast.eu.org
-162.159.138.216
-172.64.96.8
+172.64.199.214#自选
+www.baipiao.eu.org#自选
+cdn.anycast.eu.org#自选
+162.159.138.216#自选
+172.64.96.8#自选
