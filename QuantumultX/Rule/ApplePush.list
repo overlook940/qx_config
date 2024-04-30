@@ -5,12 +5,12 @@
 
 HOST-SUFFIX, push.apple.com, proxy //推送通知
 HOST, identity.apple.com, proxy //APNs 证书请求门户
-IP-CIDR, 17.249.0.0/16, no-resolve, proxy
-IP-CIDR, 17.252.0.0/16, no-resolve, proxy
-IP-CIDR, 17.57.144.0/22, no-resolve, proxy
-IP-CIDR, 17.188.128.0/18, no-resolve, proxy
-IP-CIDR, 17.188.20.0/23, no-resolve, proxy
-IP6-CIDR, 2620:149:a44::/48, no-resolve, proxy
-IP6-CIDR, 2403:300:a42::/48, no-resolve, proxy
-IP6-CIDR, 2403:300:a51::/48, no-resolve, proxy
-IP6-CIDR, 2a01:b740:a42::/48, no-resolve, proxy
+IP-CIDR, 17.249.0.0/16,  proxy
+IP-CIDR, 17.252.0.0/16,  proxy
+IP-CIDR, 17.57.144.0/22,  proxy
+IP-CIDR, 17.188.128.0/18,  proxy
+IP-CIDR, 17.188.20.0/23,  proxy
+IP6-CIDR, 2620:149:a44::/48,  proxy
+IP6-CIDR, 2403:300:a42::/48,  proxy
+IP6-CIDR, 2403:300:a51::/48,  proxy
+IP6-CIDR, 2a01:b740:a42::/48,  proxy
