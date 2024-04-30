@@ -1,6 +1,9 @@
 172.64.199.214#自选
 www.baipiao.eu.org#自选
-cdn.anycast.eu.org#自选
+www.digitalocean.com#自选
+ip.sb#自选
+www.whoer.net#自选
+www.shopify.com#自选
 162.159.138.216#自选
 172.64.96.8#自选
 162.159.58.26#自选
