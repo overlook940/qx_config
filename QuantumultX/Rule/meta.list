@@ -1,0 +1,11 @@
+# Muse ai
+
+HOST-SUFFIX,muse.ai,PROXY
+HOST-SUFFIX,meta.ai,PROXY
+HOST-SUFFIX,metaaivm.com,PROXY
+HOST-SUFFIX,metaaiusercontent.com,PROXY
+HOST-SUFFIX,atmeta.com,PROXY
+HOST-SUFFIX,ecto1usercontent.com,PROXY
+HOST-SUFFIX,meta.com,PROXY
+HOST,ai.meta.com,PROXY
+HOST,ai.developer.meta.com,PROXY
